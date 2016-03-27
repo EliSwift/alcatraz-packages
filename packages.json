@@ -2225,6 +2225,11 @@
         "name": "TablePattern",
         "url": "https://github.com/materik/tablepattern.git",
         "description": "Xode file templates for TablePattern, a table view data source design pattern"
+      },
+      {
+        "name": "Atom One Dark theme for Xcode",
+        "url": "https://github.com/bojan/xcode-one-dark",
+        "description": "Makes Xcode looks like Atom."
       }
     ]
   }
